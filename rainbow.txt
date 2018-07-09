@@ -1,6 +1,8 @@
 green
 blue
 yellow
+orange
+
 
 These are the collors of rainbow!
 
