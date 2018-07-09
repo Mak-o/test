@@ -2,7 +2,7 @@ green
 blue
 yellow
 orange
-
+pink
 
 These are the collors of rainbow!
 
